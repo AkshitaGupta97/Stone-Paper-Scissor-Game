@@ -70,7 +70,7 @@ img {
 
 @media (width <= 768px) {
     html {
-        width: 54%; 
+        width: 100%; 
     }
     .choice {
         height: 8rem;
@@ -87,7 +87,7 @@ img {
     }
     #msg {
         font-size: 1rem;
-        padding: 0.5rem;
+        padding: 0.4rem;
     }
     .choice:hover {
         transform: scale(1);
@@ -99,7 +99,7 @@ img {
 }
 @media (width <= 650px){
     html {
-        width: 44%; 
+        width: 100%; 
     }
     .choice {
         height: 5rem;
